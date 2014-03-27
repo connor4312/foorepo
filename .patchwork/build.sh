@@ -1,1 +1,0 @@
-echo "building works" > build
