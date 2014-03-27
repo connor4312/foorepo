@@ -1,0 +1,1 @@
+echo "upgrade script executed" > upgrade
